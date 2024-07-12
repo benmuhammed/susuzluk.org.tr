@@ -6,8 +6,9 @@ function App() {
     <>
       <div>
       </div>
-      <h2 className="text-black">Hello World, bipbop 🤖</h2>
-      <p className="text-gray-500">Her yeni başlangıç Yeni bir umudu da beraberinde getirir.</p>
+      <h2 className="text-black text-10xl"><strong>Hello World, bipbop 🤖</strong></h2>
+      <br />
+      <p className="text-gray-800">Her yeni başlangıç Yeni bir umudu da beraberinde getirir.</p>
     </>
   )
 }
